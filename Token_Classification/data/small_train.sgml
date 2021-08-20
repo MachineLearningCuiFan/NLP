@@ -1,0 +1,28 @@
+<SENTENCE>
+    <TEXT>我我2010 我我我我我我我我</TEXT>
+     <MISTAKE>
+        <LOCATION>8</LOCATION>
+        <WRONG>我</WRONG>
+        <CORRECTION>傲</CORRECTION>
+     </MISTAKE>
+     <MISTAKE>
+        <LOCATION>9</LOCATION>
+        <WRONG>我</WRONG>
+        <CORRECTION>傲</CORRECTION>
+     </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+    <TEXT>你你你你你er 你你你你 你你你你。</TEXT>
+    
+     <MISTAKE>
+        <LOCATION>3</LOCATION>
+        <WRONG>你</WRONG>
+        <CORRECTION>孟</CORRECTION>
+     </MISTAKE>
+    
+</SENTENCE>
+<SENTENCE>
+    <TEXT>我我我我我我我我我我</TEXT>
+
+</SENTENCE>
